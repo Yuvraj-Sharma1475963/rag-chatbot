@@ -1,4 +1,4 @@
-streamlit
+chainlit
 openai
 langchain-community
 langchain-text-splitters
